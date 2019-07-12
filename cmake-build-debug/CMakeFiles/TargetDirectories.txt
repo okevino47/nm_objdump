@@ -1,0 +1,3 @@
+/home/bibibrutal/travail/Tek2/Unix_programming/Nm-objdump/PSU_2017_nmobjdump/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bibibrutal/travail/Tek2/Unix_programming/Nm-objdump/PSU_2017_nmobjdump/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bibibrutal/travail/Tek2/Unix_programming/Nm-objdump/PSU_2017_nmobjdump/cmake-build-debug/CMakeFiles/PSU_2017_nmobjdump.dir
